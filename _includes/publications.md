@@ -18,7 +18,8 @@
 <strong><i style="color:#7b5aa6">* Equal Contribution</i></strong>
 <li>
 <ol class="bibliography">
-Please refer to [Google Scholar](https://scholar.google.com/citations?user=AnYh2rAAAAAJ&hl=en) for the full list.
+<strong><i style="color:#7b5aa6">Please refer to <a href="https://scholar.google.com/citations?user=AnYh2rAAAAAJ&hl=en">Google Scholar</a> for the full list.</i></strong>
+<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/urae.jpg" class="teaser img-fluid z-depth-1">
