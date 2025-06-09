@@ -162,9 +162,10 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/cot.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/stydesty.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML24</abbr>
   </div>
+
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2406.00275">StyDeSty: Min-Max Stylization and Destylization for Single Domain Generalization</a></div>
@@ -232,9 +233,10 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/cot.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/dd_review.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TPAMI23</abbr>
   </div>
+
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2301.07014">Dataset Distillation: A Comprehensive Review</a></div>
@@ -442,7 +444,7 @@
 
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/cot.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/adaattn.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV21</abbr>
   </div>
 
