@@ -19,7 +19,7 @@ Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub<
 
 ## News
 
-> Last Update: 2025.06
+> Last Update: 2025.07.01
 
 [2025.06] 🔥We release [WinWinLay](https://arxiv.org/abs/2506.15563), a training-free layout-to-image method that advances both worlds of precision and realism.
 
