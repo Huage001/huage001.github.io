@@ -21,9 +21,15 @@ Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub<
 
 > Last Update: 2025.06
 
+[2025.06] 🔥We release [WinWinLay](https://arxiv.org/abs/2506.15563), a training-free layout-to-image method that advances both worlds of precision and realism.
+
+[2025.06] 🔥3 papers are accepted by ICCV 2025! Congratulations to all co-authors!🎉
+
 [2025.05] 🔥We release [IEAP](https://arxiv.org/abs/2506.04158): ~~Your Free GPT-4o Image Editor~~. It decouples a complex image editing instruction into several programmable atomic operations and achieves compelling performance! Codes are available [here](https://github.com/YujiaHu1109/IEAP)!🚀 Demo is available [here](https://huggingface.co/spaces/Cicici1109/IEAP).🤗 
 
 [2025.05] 🔥We release [LLaVA-Meteor](https://arxiv.org/abs/2505.11945), a novel, efficient, and promising method to process visual tokens in VLM.
+
+[2025.05] Congratulations to Mr. Xinhao Tan having his work accepted at ACL 2025 during his undergraduate period!🎉
 
 [2025.05] 🔥2 papers are accepted by ICML 2025! Congratulations to all co-authors!🎉
 
