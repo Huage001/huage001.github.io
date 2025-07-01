@@ -54,7 +54,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2411.15098">OminiControl: Minimal and Universal Control for Diffusion Transformer</a></div>
     <div class="author">Zhenxiong Tan, <b class="publication-authors">Songhua Liu</b>, Xingyi Yang, Qiaochu Xue, and Xinchao Wang.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2024</i></strong>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2025</i></strong>
     <div class="periodical"><i style="color:#7b5aa6">Visual Synthesis</i>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.15098" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
