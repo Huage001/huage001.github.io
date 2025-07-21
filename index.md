@@ -15,7 +15,7 @@ Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub<
 3. <b><i style="color:#7b5aa6">Visual Generative Model</i></b>;
 4. <b><i style="color:#7b5aa6">Applications of the above topics to broader domains</i></b>, *e.g.*, art, science, robotics, multimedia, *etc.*,
 
-<span style="color: red;">feel free to reach out via</span> liusonghua@sjtu.edu.cn / liusonghua_site@163.com<span style="color: red;">. We are always looking for self-motivated students actively.</span>
+<span style="color: red;">feel free to reach out via</span> liusonghua{AT}sjtu.edu.cn / liusonghua_site{AT}163.com<span style="color: red;">. We are always looking for self-motivated students actively.</span>
 
 <span style="color: red;">Currently, I have run out of the Ph.D. and Master positions of 2026.</span>
 
