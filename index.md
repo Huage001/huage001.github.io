@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am an assistant professor, Ph.D. advisor, at [the School of Artificial Intelligence](https://soai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn). I obtained my Ph.D. at [the Department of Electronic and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://nus.edu.sg/) in June 2025, supervised by [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before that, I received my bachelor's degree in [the Department of Computer Science and Technology](https://cs.nju.edu.cn/) from [Nanjing University](https://www.nju.edu.cn/) in 2021. I was also fortunate to work as a research intern at [Rutgers University](http://www.rutgers.edu/) under the supervision of [Prof. Hao Wang](http://www.wanghao.in/) and at [Baidu Inc.](http://research.baidu.com/) under the supervision of [Tianwei Lin](https://wzmsltw.github.io/).
+I am an assistant professor, Ph.D. advisor at [the School of Artificial Intelligence](https://soai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn). I obtained my Ph.D. at [the Department of Electronic and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://nus.edu.sg/) in June 2025, supervised by [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before that, I received my bachelor's degree in [the Department of Computer Science and Technology](https://cs.nju.edu.cn/) from [Nanjing University](https://www.nju.edu.cn/) in 2021. I was also fortunate to work as a research intern at [Rutgers University](http://www.rutgers.edu/) under the supervision of [Prof. Hao Wang](http://www.wanghao.in/) and at [Baidu Inc.](http://research.baidu.com/) under the supervision of [Tianwei Lin](https://wzmsltw.github.io/).
 
-My research interests include <b><i style="color:#7b5aa6">visual synthesis and training with synthetic data</i></b>. Since 2020, I have published over 10 first-author research papers at top journals/conferences on these topics. Multiple works are selected as paper award nomination, oral, highlight, and spotlight. During my doctoral studies, I received NUS Research Scholorship and the 2023 National Award for Outstanding Self-financed Chinese Students Abroad.
+My research interests include <b><i style="color:#7b5aa6">visual synthesis and training with synthetic data</i></b>. Since 2020, I have published over 10 first-author research papers at top journals/conferences on these topics. Multiple works are selected as paper award nominations, oral, highlight, and spotlight. During my doctoral studies, I received the NUS Research Scholarship and the 2023 National Award for Outstanding Self-financed Chinese Students Abroad.
 
 Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub</i></b> and recruiting **Ph.D. students (2~3 every year starting from fall 2026), Master students (1~2 every year starting from fall 2026), and multiple research interns**. <span style="color: red;">If you are interested in working with me at Shanghai Jiao Tong University on the following topics:</span>
 
@@ -17,7 +17,7 @@ Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub<
 
 <span style="color: red;">feel free to reach out via</span> liusonghua{AT}sjtu.edu.cn / liusonghua_site{AT}163.com<span style="color: red;">. We are always looking for self-motivated students actively.</span>
 
-<span style="color: red;">Currently, I have run out of the Ph.D. and Master positions of 2026.</span>
+<span style="color: red;">Currently, I have run out of Ph.D. positions for 2026.</span>
 
 ## News
 
@@ -31,7 +31,7 @@ Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub<
 
 [2025.05] 🔥We release [LLaVA-Meteor](https://arxiv.org/abs/2505.11945), a novel, efficient, and promising method to process visual tokens in VLM.
 
-[2025.05] Congratulations to Mr. Xinhao Tan having his work accepted at ACL 2025 during his undergraduate period!🎉
+[2025.05] Congratulations to Mr. Xinhao Tan for having his work accepted at ACL 2025 during his undergraduate period!🎉
 
 [2025.05] 🔥2 papers are accepted by ICML 2025! Congratulations to all co-authors!🎉
 
