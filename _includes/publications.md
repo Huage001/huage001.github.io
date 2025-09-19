@@ -23,7 +23,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ieap.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ieap.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS25</abbr>
   </div>
 
@@ -46,7 +46,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/hello.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/hello.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV25</abbr>
   </div>
 
