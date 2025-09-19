@@ -17,7 +17,7 @@ Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub<
 
 <span style="color: red;">feel free to reach out via</span> liusonghua{AT}sjtu.edu.cn / liusonghua_site{AT}163.com<span style="color: red;">. We are always looking for self-motivated students actively.</span>
 
-<span style="color: red;">Currently, I have run out of Ph.D. positions for 2026. There is 1 Master position for 2026 left.</span>
+<span style="color: red;">Currently, I have run out of Ph.D. positions for 2026.</span>
 
 ## News
 
