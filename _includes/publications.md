@@ -19,6 +19,52 @@
 <li>
 <ol class="bibliography">
 <strong><i style="color:#7b5aa6">Please refer to <a href="https://scholar.google.com/citations?user=AnYh2rAAAAAJ&hl=en">Google Scholar</a> for the full list.</i></strong>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ieap.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS25</abbr>
+  </div>
+
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2503.16322">Image Editing As Programs with Diffusion Models</a></div>
+    <div class="author">Yujia Hu, <b class="publication-authors">Songhua Liu</b>, Zhenxiong Tan, Xingyi Yang, and Xinchao Wang.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2025</i></strong>
+    <div class="periodical"><i style="color:#7b5aa6">Visual Synthesis</i>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2506.04158" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/YujiaHu1109/IEAP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/hello.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV25</abbr>
+  </div>
+
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2503.16322">Heavy Labels Out! Dataset Distillation with Label Space Lightening</a></div>
+    <div class="author">Ruonan Yu, <b class="publication-authors">Songhua Liu</b>, Zigeng Chen, Jingwen Ye, and Xinchao Wang.</div>
+    <div class="periodical"><strong><i style="color:#7b5aa6">ICCV 2025 Oral</i></strong>
+    <div class="periodical"><i style="color:#7b5aa6">Synthetic Data for Data Efficiency</i>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2506.04158" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -47,7 +93,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/omini.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv24</abbr>
+    <abbr class="badge">ICCV25</abbr>
   </div>
 
 
@@ -71,14 +117,14 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/clear.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv24</abbr>
+    <abbr class="badge">NeurIPS25</abbr>
   </div>
 
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2412.16112">CLEAR: Conv-Like Linearization Revs Pre-Trained Diffusion Transformers Up</a></div>
     <div class="author"><b class="publication-authors">Songhua Liu</b>, Zhenxiong Tan, and Xinchao Wang.</div>
-    <div class="periodical"><strong><i style="color:#7b5aa6">arXiv 2024</i></strong>
+    <div class="periodical"><strong><i style="color:#7b5aa6">NeurIPS 2025</i></strong>
     <div class="periodical"><i style="color:#7b5aa6">Visual Synthesis</i>
     <div class="links">
       <a href="https://arxiv.org/pdf/2412.16112" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
