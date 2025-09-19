@@ -21,11 +21,13 @@ Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub<
 
 ## News
 
-> Last Update: 2025.07.01
+> Last Update: 2025.09.19
+
+[2025.09] 🔥2 papers are accepted by NeurIPS 2025! Congratulations to Ms. Yujia Hu for having her first research work accepted!🎉
 
 [2025.06] 🔥We release [WinWinLay](https://arxiv.org/abs/2506.15563), a training-free layout-to-image method that advances both worlds of precision and realism.
 
-[2025.06] 🔥3 papers are accepted by ICCV 2025! Congratulations to all co-authors!🎉
+[2025.06] 🔥3 papers are accepted by ICCV 2025, including one oral presentation! Congratulations to Ms. Ruonan Yu and all co-authors!🎉
 
 [2025.05] 🔥We release [IEAP](https://arxiv.org/abs/2506.04158): ~~Your Free GPT-4o Image Editor~~. It decouples a complex image editing instruction into several programmable atomic operations and achieves compelling performance! Codes are available [here](https://github.com/YujiaHu1109/IEAP)!🚀 Demo is available [here](https://huggingface.co/spaces/Cicici1109/IEAP).🤗 
 
