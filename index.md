@@ -6,22 +6,27 @@ layout: homepage
 
 I am an assistant professor, Ph.D. advisor at [the School of Artificial Intelligence](https://soai.sjtu.edu.cn), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn). I obtained my Ph.D. at [the Department of Electronic and Computer Engineering](https://cde.nus.edu.sg/ece/), [National University of Singapore](https://nus.edu.sg/) in June 2025, supervised by [Prof. Xinchao Wang](https://sites.google.com/site/sitexinchaowang/). Before that, I received my bachelor's degree in [the Department of Computer Science and Technology](https://cs.nju.edu.cn/) from [Nanjing University](https://www.nju.edu.cn/) in 2021. I was also fortunate to work as a research intern at [Rutgers University](http://www.rutgers.edu/) under the supervision of [Prof. Hao Wang](http://www.wanghao.in/) and at [Baidu Inc.](http://research.baidu.com/) under the supervision of [Tianwei Lin](https://wzmsltw.github.io/).
 
-My research interests include <b><i style="color:#7b5aa6">visual synthesis and training with synthetic data</i></b>. Since 2020, I have published over 10 first-author research papers at top journals/conferences on these topics. Multiple works are selected as paper award nominations, oral, highlight, and spotlight. During my doctoral studies, I received the NUS Research Scholarship and the 2023 National Award for Outstanding Self-financed Chinese Students Abroad.
+My research interests include <b><i style="color:#7b5aa6">generative AI, especially efficient deep learning driven by synthetic data.</i></b>. Currently, I am creating <b><i style="color:#7b5aa6">Go-There Lab</i></b> and recruiting **Postdocs (1 position available currently)**, **Ph.D. students (2~3 every year starting from fall 2027), Master students (1~2 every year starting from fall 2027), and multiple research interns**. <span style="color: red;">If you are interested in working with me at Shanghai Jiao Tong University on the following topics:</span>
 
-Currently, I am creating <b><i style="color:#7b5aa6">Learning and Synthesis Hub</i></b> and recruiting **Ph.D. students (2~3 every year starting from fall 2026), Master students (1~2 every year starting from fall 2026), and multiple research interns**. <span style="color: red;">If you are interested in working with me at Shanghai Jiao Tong University on the following topics:</span>
+1. <b><i style="color:#7b5aa6">Generative AI: Principle and Architecture</i></b>;
+2. <b><i style="color:#7b5aa6">Broad Topics and Applications in AIGC</i></b>;
+3. <b><i style="color:#7b5aa6">Deep Learning driven by Synthetic Data</i></b>;
 
-1. <b><i style="color:#7b5aa6">Model Editing for Novel Functionalities, Efficiency, Generalizability, and Safety</i></b>;
-2. <b><i style="color:#7b5aa6">Training with Synthetic Data</i></b>;
-3. <b><i style="color:#7b5aa6">Visual Generative Model</i></b>;
-4. <b><i style="color:#7b5aa6">Applications of the above topics to broader domains</i></b>, *e.g.*, art, science, robotics, multimedia, *etc.*,
-
-<span style="color: red;">feel free to reach out via</span> liusonghua{AT}sjtu.edu.cn / liusonghua_site{AT}163.com<span style="color: red;">. We are always looking for self-motivated students actively.</span>
+<span style="color: red;">feel free to reach out via</span> liusonghua{AT}sjtu.edu.cn<span style="color: red;">. We are always looking for self-motivated students actively.</span>
 
 <span style="color: red;">Currently, I have run out of Ph.D. positions for 2026.</span>
 
 ## News
 
-> Last Update: 2025.09.19
+> Last Update: 2025.12.15
+
+[2025.12] 🔥We release [EditMGT](https://arxiv.org/abs/2512.11715), an instructional image editor based on Masked Generative Transformer (MGT). It adaptively localizes editing region during generation and achieves competitive results to state-of-the-art diffusion models with less than 1B parameters. [[Page]](https://weichow23.github.io/EditMGT/) [[Codes]](https://github.com/weichow23/EditMGT) [[Dataset]](https://huggingface.co/datasets/WeiChow/CrispEdit-2M)
+
+[2025.11] 🔥We release [ViBT](https://arxiv.org/abs/2511.23199). It's the first time that bridge models are scaled to 20B models, which brings new opportunities for vision-to-vision translation tasks, e.g., image/video editing, controllable image/video generation, etc. [[Page]](https://yuanshi9815.github.io/ViBT_homepage) [[Codes]](https://github.com/Yuanshi9815/ViBT) [[Demo]](https://huggingface.co/spaces/Yuanshi/ViBT)
+
+[2025.11] 🔥We release [FreeSwim](https://arxiv.org/abs/2511.14712), a training-free method that generates 4K-scale videos! Codes are available [here](https://github.com/WillWu111/FreeSwim).
+
+[2025.11] 🔥FreLay, a stronger extension of [WinWinLay](https://arxiv.org/abs/2506.15563), is accepted by AAAI 2026!🎉
 
 [2025.09] 🔥2 papers are accepted by NeurIPS 2025! Congratulations to Ms. Yujia Hu for having her first research work accepted!🎉
 
