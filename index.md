@@ -18,7 +18,11 @@ My research interests include <b><i style="color:#7b5aa6">generative AI, especia
 
 ## News
 
-> Last Update: 2025.12.15
+> Last Update: 2026.02.21
+
+[2026.02] 🔥5 papers are accepted by CVPR 2026! Congratulations to Mr. Yingcheng Hu and Mr. Zhibin Qin for having their first research works accepted!🎉
+
+[2026.01] 🔥2 papers are accepted by ICLR 2026! Congratulations to Mr. Letian Zhou for having his first research work accepted!🎉
 
 [2025.12] 🔥We release [EditMGT](https://arxiv.org/abs/2512.11715), an instructional image editor based on Masked Generative Transformer (MGT). It adaptively localizes editing region during generation and achieves competitive results to state-of-the-art diffusion models with less than 1B parameters. [[Page]](https://weichow23.github.io/EditMGT/) [[Codes]](https://github.com/weichow23/EditMGT) [[Dataset]](https://huggingface.co/datasets/WeiChow/CrispEdit-2M)
 
